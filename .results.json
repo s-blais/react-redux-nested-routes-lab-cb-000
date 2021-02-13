@@ -1,0 +1,60 @@
+{
+  "stats": {
+    "suites": 2,
+    "tests": 3,
+    "passes": 3,
+    "pending": 0,
+    "failures": 0,
+    "start": "2021-02-13T22:39:43.955Z",
+    "end": "2021-02-13T22:39:44.020Z",
+    "duration": 65
+  },
+  "tests": [
+    {
+      "title": "renders the form to create a new Pet",
+      "fullTitle": "PetsNew renders the form to create a new Pet",
+      "duration": 19,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "renders the pets show component",
+      "fullTitle": "PetsShow renders the pets show component",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "finds the pet by the route ID",
+      "fullTitle": "PetsShow finds the pet by the route ID",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ],
+  "pending": [],
+  "failures": [],
+  "passes": [
+    {
+      "title": "renders the form to create a new Pet",
+      "fullTitle": "PetsNew renders the form to create a new Pet",
+      "duration": 19,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "renders the pets show component",
+      "fullTitle": "PetsShow renders the pets show component",
+      "duration": 3,
+      "currentRetry": 0,
+      "err": {}
+    },
+    {
+      "title": "finds the pet by the route ID",
+      "fullTitle": "PetsShow finds the pet by the route ID",
+      "duration": 2,
+      "currentRetry": 0,
+      "err": {}
+    }
+  ]
+}
